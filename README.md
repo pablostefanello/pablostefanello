@@ -2,6 +2,7 @@
 
 ### Me chamo Pablo Stefanello Alessio
 apenas mais um dev em busca do seu café diario☕
+![Static Badge](https://img.shields.io/badge/Email%3A%20-pablostefanelloalessio2005%40gmail.com-blue)
 
 #### Tecnologias💻
 <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
